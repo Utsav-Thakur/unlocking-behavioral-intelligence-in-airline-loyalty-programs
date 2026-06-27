@@ -160,12 +160,20 @@ const About = () => {
 
               <div className="flex flex-col gap-2 pt-2 border-t border-border/40">
                 <a 
+                  href="https://github.com/Utsav-Thakur/unlocking-behavioral-intelligence-in-airline-loyalty-programs" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-1.5 text-text-secondary hover:text-accent font-semibold transition-colors"
+                >
+                  <Github className="h-4 w-4" /> Project Repository <ExternalLink className="h-3 w-3 opacity-65" />
+                </a>
+                <a 
                   href="https://github.com/Utsav-Thakur" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center gap-1.5 text-text-secondary hover:text-accent font-semibold transition-colors"
                 >
-                  <Github className="h-4 w-4" /> github.com/Utsav-Thakur <ExternalLink className="h-3 w-3 opacity-65" />
+                  <Github className="h-4 w-4" /> Utsav's GitHub Profile <ExternalLink className="h-3 w-3 opacity-65" />
                 </a>
                 <a 
                   href="https://www.linkedin.com/in/utsav-thakur-2b01871b7" 

@@ -12,7 +12,8 @@ import {
   AlertCircle, 
   Info,
   Menu,
-  X
+  X,
+  Github
 } from 'lucide-react';
 
 const Sidebar = ({ isOpen, toggleSidebar }) => {
@@ -105,10 +106,18 @@ const Sidebar = ({ isOpen, toggleSidebar }) => {
         </div>
 
         {/* Footer Section */}
-        <div className="p-4 border-t border-border bg-card">
+        <div className="p-4 border-t border-border bg-card flex flex-col items-center gap-2">
           <p className="text-[10px] text-text-secondary text-center font-medium select-none">
             Built by Utsav · LoyaltyIQ v1.0
           </p>
+          <a
+            href="https://github.com/Utsav-Thakur/unlocking-behavioral-intelligence-in-airline-loyalty-programs"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-1 text-[10px] text-accent hover:underline font-semibold"
+          >
+            <Github className="h-3 w-3" /> View Repository
+          </a>
         </div>
       </aside>
     </>

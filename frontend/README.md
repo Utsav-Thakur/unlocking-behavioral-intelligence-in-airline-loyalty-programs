@@ -46,5 +46,7 @@ This project includes SPA rewrite directives in `vercel.json` to handle routing 
 ## Author Credits
 
 - **Built by**: Utsav Kumar Thakur
-- **GitHub**: [Utsav-Thakur](https://github.com/Utsav-Thakur)
+- **GitHub Profile**: [@Utsav-Thakur](https://github.com/Utsav-Thakur)
+- **GitHub Repository**: [unlocking-behavioral-intelligence-in-airline-loyalty-programs](https://github.com/Utsav-Thakur/unlocking-behavioral-intelligence-in-airline-loyalty-programs)
 - **LinkedIn**: [linkedin.com/in/utsav-thakur-2b01871b7](https://linkedin.com/in/utsav-thakur-2b01871b7)
+- **Live Link**: [https://loyaltyiq-nine.vercel.app/](https://loyaltyiq-nine.vercel.app/)
