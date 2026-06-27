@@ -10,7 +10,7 @@ The frontend web application is deployed and accessible at:
 
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
-- [Screenshots](#-screenshots)
+- [Demo & Screenshots](#-demo--screenshots)
 - [Key Features](#key-features)
 - [Repository Structure](#repository-structure)
 - [Tech Stack](#tech-stack)
@@ -21,7 +21,10 @@ The frontend web application is deployed and accessible at:
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo & Screenshots
+
+### Full Video Walkthrough
+![LoyaltyIQ Demo Video](assets/demo.webp)
 
 ### Welcome & Entry Page
 ![Welcome Page](assets/landing.png)
