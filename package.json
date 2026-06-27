@@ -1,0 +1,10 @@
+{
+  "name": "loyalty-iq-monorepo",
+  "private": true,
+  "workspaces": [
+    "frontend"
+  ],
+  "scripts": {
+    "build": "node build.js"
+  }
+}
