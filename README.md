@@ -2,7 +2,7 @@
 
 ## LoyaltyIQ — Unlocking Behavioral Intelligence in Airline Loyalty Programs
 
-An end-to-end Data Science + AI solution predicting customer churn, segmenting 16,737 loyalty members, and generating AI-powered retention actions using XGBoost, KMeans, and Claude AI (claude-sonnet-4-6).
+An end-to-end Data Science + AI solution predicting customer churn, segmenting 16,737 loyalty members, and generating AI-powered retention actions using XGBoost, KMeans, and AI (claude-sonnet-4-6 , Gemini , GPT).
 
 ## Problem Statement
 
