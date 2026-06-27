@@ -1,0 +1,37 @@
+[
+  {
+    "feature": "Points Redemption Ratio",
+    "importance": 0.364,
+    "category": "Engagement"
+  },
+  {
+    "feature": "Flights Booked (Recent Year)",
+    "importance": 0.281,
+    "category": "Engagement"
+  },
+  {
+    "feature": "Card Tier (Star vs Aurora)",
+    "importance": 0.165,
+    "category": "Demographics"
+  },
+  {
+    "feature": "Enrollment Duration (Years)",
+    "importance": 0.098,
+    "category": "Demographics"
+  },
+  {
+    "feature": "Annual Salary",
+    "importance": 0.052,
+    "category": "Demographics"
+  },
+  {
+    "feature": "Province Location",
+    "importance": 0.024,
+    "category": "Demographics"
+  },
+  {
+    "feature": "Education Level",
+    "importance": 0.016,
+    "category": "Demographics"
+  }
+]

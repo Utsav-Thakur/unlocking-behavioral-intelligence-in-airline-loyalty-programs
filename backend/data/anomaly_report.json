@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "ANOM-0001",
+    "loyaltyNumber": 100504,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-03 | Flight activity: 2018-04",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0002",
+    "loyaltyNumber": 101709,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-08 | Flight activity: 2018-09",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0003",
+    "loyaltyNumber": 101876,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-06 | Flight activity: 2018-07",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0004",
+    "loyaltyNumber": 103352,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2015-09 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0005",
+    "loyaltyNumber": 103383,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2016-02 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0006",
+    "loyaltyNumber": 104739,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2014-07 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0007",
+    "loyaltyNumber": 105251,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2017-08 | Flight activity: 2017-09",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0008",
+    "loyaltyNumber": 105352,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2014-06 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0009",
+    "loyaltyNumber": 105700,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2015-08 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0010",
+    "loyaltyNumber": 106509,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-10 | Flight activity: 2018-11",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0011",
+    "loyaltyNumber": 106589,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2013-09 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0012",
+    "loyaltyNumber": 107420,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-08 | Flight activity: 2018-09",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0013",
+    "loyaltyNumber": 107519,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-10 | Flight activity: 2018-11",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0014",
+    "loyaltyNumber": 108346,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-08 | Flight activity: 2018-09",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0015",
+    "loyaltyNumber": 108367,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-01 | Flight activity: 2018-02",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0016",
+    "loyaltyNumber": 108857,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-04 | Flight activity: 2018-05",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0017",
+    "loyaltyNumber": 108896,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-02 | Flight activity: 2018-03",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0018",
+    "loyaltyNumber": 109612,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-08 | Flight activity: 2018-09",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0019",
+    "loyaltyNumber": 109956,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-01 | Flight activity: 2018-02",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0020",
+    "loyaltyNumber": 110030,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2017-08 | Flight activity: 2017-09",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0021",
+    "loyaltyNumber": 110073,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2015-03 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0022",
+    "loyaltyNumber": 110142,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-10 | Flight activity: 2018-11",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0023",
+    "loyaltyNumber": 110211,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2017-12 | Flight activity: 2018-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0024",
+    "loyaltyNumber": 110603,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2017-10 | Flight activity: 2017-11",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0025",
+    "loyaltyNumber": 111387,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2015-04 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0026",
+    "loyaltyNumber": 111646,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-01 | Flight activity: 2018-02",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0027",
+    "loyaltyNumber": 111899,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2017-11 | Flight activity: 2017-12",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0028",
+    "loyaltyNumber": 112661,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2017-05 | Flight activity: 2017-06",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0029",
+    "loyaltyNumber": 112797,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2015-03 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0030",
+    "loyaltyNumber": 113316,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-08 | Flight activity: 2018-09",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0031",
+    "loyaltyNumber": 113578,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2017-05 | Flight activity: 2017-06",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0032",
+    "loyaltyNumber": 113656,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2015-01 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0033",
+    "loyaltyNumber": 114214,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-04 | Flight activity: 2018-05",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0034",
+    "loyaltyNumber": 114924,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-07 | Flight activity: 2018-08",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0035",
+    "loyaltyNumber": 116207,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2017-09 | Flight activity: 2017-10",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0036",
+    "loyaltyNumber": 117725,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2014-02 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0037",
+    "loyaltyNumber": 117832,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2015-09 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0038",
+    "loyaltyNumber": 117939,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2017-05 | Flight activity: 2017-06",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0039",
+    "loyaltyNumber": 117975,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2017-02 | Flight activity: 2017-03",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0040",
+    "loyaltyNumber": 118298,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2014-09 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0041",
+    "loyaltyNumber": 118376,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-08 | Flight activity: 2018-09",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0042",
+    "loyaltyNumber": 118511,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2017-02 | Flight activity: 2017-03",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0043",
+    "loyaltyNumber": 118688,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2016-07 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0044",
+    "loyaltyNumber": 118729,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-05 | Flight activity: 2018-06",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0045",
+    "loyaltyNumber": 119917,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2015-01 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0046",
+    "loyaltyNumber": 120206,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2016-02 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0047",
+    "loyaltyNumber": 120635,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2016-08 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0048",
+    "loyaltyNumber": 121236,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2017-11 | Flight activity: 2017-12",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0049",
+    "loyaltyNumber": 121351,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-05 | Flight activity: 2018-06",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0050",
+    "loyaltyNumber": 121469,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2014-05 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0051",
+    "loyaltyNumber": 121999,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2016-11 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0052",
+    "loyaltyNumber": 122206,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2015-06 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0053",
+    "loyaltyNumber": 122517,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2017-03 | Flight activity: 2017-04",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0054",
+    "loyaltyNumber": 123151,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2015-02 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0055",
+    "loyaltyNumber": 123538,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2016-09 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0056",
+    "loyaltyNumber": 123586,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-11 | Flight activity: 2018-12",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0057",
+    "loyaltyNumber": 124085,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2018-09 | Flight activity: 2018-10",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0058",
+    "loyaltyNumber": 124536,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2014-01 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0059",
+    "loyaltyNumber": 124931,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2016-02 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0060",
+    "loyaltyNumber": 124987,
+    "type": "Activity Post-Cancellation",
+    "severity": "High",
+    "detectedValue": "Cancelled: 2014-03 | Flight activity: 2017-01",
+    "description": "System recorded passenger flight activity after their loyalty account cancellation date."
+  },
+  {
+    "id": "ANOM-0061",
+    "loyaltyNumber": 549612,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0062",
+    "loyaltyNumber": 429460,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0063",
+    "loyaltyNumber": 608370,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0064",
+    "loyaltyNumber": 927943,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0065",
+    "loyaltyNumber": 988178,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0066",
+    "loyaltyNumber": 286114,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0067",
+    "loyaltyNumber": 172755,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0068",
+    "loyaltyNumber": 354730,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0069",
+    "loyaltyNumber": 413741,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0070",
+    "loyaltyNumber": 552965,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0071",
+    "loyaltyNumber": 642313,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0072",
+    "loyaltyNumber": 263080,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0073",
+    "loyaltyNumber": 333502,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0074",
+    "loyaltyNumber": 938981,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0075",
+    "loyaltyNumber": 730388,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0076",
+    "loyaltyNumber": 127400,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0077",
+    "loyaltyNumber": 324557,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0078",
+    "loyaltyNumber": 742002,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0079",
+    "loyaltyNumber": 612905,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0080",
+    "loyaltyNumber": 256147,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0081",
+    "loyaltyNumber": 329382,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0082",
+    "loyaltyNumber": 501704,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0083",
+    "loyaltyNumber": 529098,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0084",
+    "loyaltyNumber": 322102,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0085",
+    "loyaltyNumber": 789157,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0086",
+    "loyaltyNumber": 984713,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0087",
+    "loyaltyNumber": 566033,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0088",
+    "loyaltyNumber": 472521,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0089",
+    "loyaltyNumber": 174896,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0090",
+    "loyaltyNumber": 695855,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0091",
+    "loyaltyNumber": 699511,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0092",
+    "loyaltyNumber": 890753,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0093",
+    "loyaltyNumber": 556136,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0094",
+    "loyaltyNumber": 326905,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0095",
+    "loyaltyNumber": 920716,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0096",
+    "loyaltyNumber": 797685,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0097",
+    "loyaltyNumber": 705196,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0098",
+    "loyaltyNumber": 119488,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0099",
+    "loyaltyNumber": 287750,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0100",
+    "loyaltyNumber": 279419,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0101",
+    "loyaltyNumber": 509513,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0102",
+    "loyaltyNumber": 355331,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0103",
+    "loyaltyNumber": 578837,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0104",
+    "loyaltyNumber": 603248,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0105",
+    "loyaltyNumber": 705589,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0106",
+    "loyaltyNumber": 354438,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0107",
+    "loyaltyNumber": 746060,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0108",
+    "loyaltyNumber": 930584,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0109",
+    "loyaltyNumber": 327796,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0110",
+    "loyaltyNumber": 743510,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0111",
+    "loyaltyNumber": 789421,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0112",
+    "loyaltyNumber": 914255,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0113",
+    "loyaltyNumber": 438023,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0114",
+    "loyaltyNumber": 530105,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0115",
+    "loyaltyNumber": 585357,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0116",
+    "loyaltyNumber": 784804,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0117",
+    "loyaltyNumber": 715764,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0118",
+    "loyaltyNumber": 271660,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0119",
+    "loyaltyNumber": 264936,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0120",
+    "loyaltyNumber": 436498,
+    "type": "Missing Demographics",
+    "severity": "Low",
+    "detectedValue": "Salary: NULL (Education: College)",
+    "description": "Systematic missing income field encountered on member profile with College level education."
+  },
+  {
+    "id": "ANOM-0121",
+    "loyaltyNumber": 671764,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $35,850.60",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0122",
+    "loyaltyNumber": 797704,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $38,410.60",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0123",
+    "loyaltyNumber": 218278,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $35,227.30",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0124",
+    "loyaltyNumber": 912633,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $60,556.19",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0125",
+    "loyaltyNumber": 644865,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $28,685.83",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0126",
+    "loyaltyNumber": 821918,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $28,799.95",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0127",
+    "loyaltyNumber": 972129,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $28,799.95",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0128",
+    "loyaltyNumber": 149348,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $28,824.06",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0129",
+    "loyaltyNumber": 960959,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $28,824.06",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0130",
+    "loyaltyNumber": 837269,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $29,049.71",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0131",
+    "loyaltyNumber": 611029,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $29,091.24",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0132",
+    "loyaltyNumber": 602585,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $29,232.69",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0133",
+    "loyaltyNumber": 960441,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $29,577.28",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0134",
+    "loyaltyNumber": 709724,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $29,589.94",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0135",
+    "loyaltyNumber": 355578,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $29,676.81",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0136",
+    "loyaltyNumber": 740063,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $29,676.81",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0137",
+    "loyaltyNumber": 961965,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $29,830.39",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0138",
+    "loyaltyNumber": 167491,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $29,874.74",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0139",
+    "loyaltyNumber": 651377,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $29,973.42",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0140",
+    "loyaltyNumber": 680738,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $30,061.69",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0141",
+    "loyaltyNumber": 108430,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $30,081.37",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0142",
+    "loyaltyNumber": 776443,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $30,141.62",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0143",
+    "loyaltyNumber": 398839,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $30,286.69",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0144",
+    "loyaltyNumber": 243273,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $30,475.78",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0145",
+    "loyaltyNumber": 187838,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $30,591.61",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0146",
+    "loyaltyNumber": 946439,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $30,591.61",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0147",
+    "loyaltyNumber": 530880,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $30,763.26",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0148",
+    "loyaltyNumber": 904397,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $30,850.59",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0149",
+    "loyaltyNumber": 939399,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $30,859.36",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0150",
+    "loyaltyNumber": 300371,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $30,909.22",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0151",
+    "loyaltyNumber": 499874,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $31,269.27",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0152",
+    "loyaltyNumber": 532997,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $31,316.61",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0153",
+    "loyaltyNumber": 103969,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $31,410.93",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0154",
+    "loyaltyNumber": 173673,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $31,516.51",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0155",
+    "loyaltyNumber": 562510,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $31,920.77",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0156",
+    "loyaltyNumber": 183129,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $32,021.40",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0157",
+    "loyaltyNumber": 483274,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $32,227.08",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0158",
+    "loyaltyNumber": 880402,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $32,269.85",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0159",
+    "loyaltyNumber": 525612,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $32,474.77",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  },
+  {
+    "id": "ANOM-0160",
+    "loyaltyNumber": 103151,
+    "type": "Outlier Value",
+    "severity": "Medium",
+    "detectedValue": "CLV: $32,613.69",
+    "description": "Customer Lifetime Value exceeds statistical normal threshold (> 3 standard deviations)."
+  }
+]

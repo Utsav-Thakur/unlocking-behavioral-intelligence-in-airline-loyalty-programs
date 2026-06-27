@@ -1,0 +1,146 @@
+[
+  {
+    "year": 2017,
+    "month": 1,
+    "flights": 13059,
+    "label": "2017-01"
+  },
+  {
+    "year": 2017,
+    "month": 2,
+    "flights": 13368,
+    "label": "2017-02"
+  },
+  {
+    "year": 2017,
+    "month": 3,
+    "flights": 18391,
+    "label": "2017-03"
+  },
+  {
+    "year": 2017,
+    "month": 4,
+    "flights": 15449,
+    "label": "2017-04"
+  },
+  {
+    "year": 2017,
+    "month": 5,
+    "flights": 18690,
+    "label": "2017-05"
+  },
+  {
+    "year": 2017,
+    "month": 6,
+    "flights": 23504,
+    "label": "2017-06"
+  },
+  {
+    "year": 2017,
+    "month": 7,
+    "flights": 26312,
+    "label": "2017-07"
+  },
+  {
+    "year": 2017,
+    "month": 8,
+    "flights": 22976,
+    "label": "2017-08"
+  },
+  {
+    "year": 2017,
+    "month": 9,
+    "flights": 17439,
+    "label": "2017-09"
+  },
+  {
+    "year": 2017,
+    "month": 10,
+    "flights": 16458,
+    "label": "2017-10"
+  },
+  {
+    "year": 2017,
+    "month": 11,
+    "flights": 15745,
+    "label": "2017-11"
+  },
+  {
+    "year": 2017,
+    "month": 12,
+    "flights": 21871,
+    "label": "2017-12"
+  },
+  {
+    "year": 2018,
+    "month": 1,
+    "flights": 13325,
+    "label": "2018-01"
+  },
+  {
+    "year": 2018,
+    "month": 2,
+    "flights": 13540,
+    "label": "2018-02"
+  },
+  {
+    "year": 2018,
+    "month": 3,
+    "flights": 19657,
+    "label": "2018-03"
+  },
+  {
+    "year": 2018,
+    "month": 4,
+    "flights": 15835,
+    "label": "2018-04"
+  },
+  {
+    "year": 2018,
+    "month": 5,
+    "flights": 27345,
+    "label": "2018-05"
+  },
+  {
+    "year": 2018,
+    "month": 6,
+    "flights": 33840,
+    "label": "2018-06"
+  },
+  {
+    "year": 2018,
+    "month": 7,
+    "flights": 37936,
+    "label": "2018-07"
+  },
+  {
+    "year": 2018,
+    "month": 8,
+    "flights": 32808,
+    "label": "2018-08"
+  },
+  {
+    "year": 2018,
+    "month": 9,
+    "flights": 22034,
+    "label": "2018-09"
+  },
+  {
+    "year": 2018,
+    "month": 10,
+    "flights": 20696,
+    "label": "2018-10"
+  },
+  {
+    "year": 2018,
+    "month": 11,
+    "flights": 19673,
+    "label": "2018-11"
+  },
+  {
+    "year": 2018,
+    "month": 12,
+    "flights": 28857,
+    "label": "2018-12"
+  }
+]

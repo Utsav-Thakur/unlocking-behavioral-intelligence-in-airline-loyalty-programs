@@ -1,0 +1,100 @@
+[
+  {
+    "segment": "At-Risk Flyers",
+    "count": 588,
+    "percentage": 0.03513174404015056,
+    "avgClv": 6446.865187074831,
+    "avgSalary": 71020.29545454546,
+    "avgRisk": 0.628658163265306,
+    "avgFlights": 7.406462585034014,
+    "cardTierDist": {
+      "Star": 542,
+      "Nova": 46
+    },
+    "topProvinces": {
+      "Ontario": 191,
+      "British Columbia": 153,
+      "Quebec": 126
+    },
+    "description": "Frequent or moderately frequent flyers showing high churn risk signs. Critical targets for retention."
+  },
+  {
+    "segment": "Casual Travelers",
+    "count": 879,
+    "percentage": 0.05251837246818426,
+    "avgClv": 3351.4962571103524,
+    "avgSalary": 80593.48847926267,
+    "avgRisk": 0.4709579067121729,
+    "avgFlights": 12.700796359499432,
+    "cardTierDist": {
+      "Star": 509,
+      "Nova": 370
+    },
+    "topProvinces": {
+      "Ontario": 279,
+      "British Columbia": 231,
+      "Quebec": 179
+    },
+    "description": "Flyers who travel infrequently and have a low CLV, though their risk is moderate. Standard offers apply."
+  },
+  {
+    "segment": "Dormant / Churned",
+    "count": 2067,
+    "percentage": 0.12349883491665173,
+    "avgClv": 8131.776768263183,
+    "avgSalary": 79221.00779220779,
+    "avgRisk": 1.0,
+    "avgFlights": 10.12675374939526,
+    "cardTierDist": {
+      "Star": 901,
+      "Nova": 717,
+      "Aurora": 449
+    },
+    "topProvinces": {
+      "Ontario": 674,
+      "British Columbia": 522,
+      "Quebec": 413
+    },
+    "description": "Past members who cancelled their loyalty membership. Useful for historical analysis."
+  },
+  {
+    "segment": "Elite Loyalists",
+    "count": 1112,
+    "percentage": 0.06643962478341399,
+    "avgClv": 21579.674325539567,
+    "avgSalary": 80721.5803468208,
+    "avgRisk": 0.10756564748201439,
+    "avgFlights": 38.55035971223022,
+    "cardTierDist": {
+      "Aurora": 602,
+      "Nova": 413,
+      "Star": 97
+    },
+    "topProvinces": {
+      "Ontario": 344,
+      "British Columbia": 289,
+      "Quebec": 237
+    },
+    "description": "High-value, highly active travelers who are extremely loyal to the brand. Low risk of churn."
+  },
+  {
+    "segment": "Standard Members",
+    "count": 12091,
+    "percentage": 0.7224114237915995,
+    "avgClv": 7126.661066082209,
+    "avgSalary": 79331.29996700033,
+    "avgRisk": 0.25386535439583163,
+    "avgFlights": 35.52137953849971,
+    "cardTierDist": {
+      "Star": 5588,
+      "Nova": 4125,
+      "Aurora": 2378
+    },
+    "topProvinces": {
+      "Ontario": 3916,
+      "British Columbia": 3214,
+      "Quebec": 2345
+    },
+    "description": "Regular active flyers with balanced risk profiles and typical loyalty engagement."
+  }
+]
