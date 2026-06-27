@@ -24,7 +24,7 @@ The frontend web application is deployed and accessible at:
 ## 📸 Demo & Screenshots
 
 ### Full Video Walkthrough
-![LoyaltyIQ Demo Video](assets/demo.webp)
+![LoyaltyIQ Walkthrough Video](assets/walkthrough.webp)
 
 ### Welcome & Entry Page
 ![Welcome Page](assets/landing.png)
