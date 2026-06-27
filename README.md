@@ -4,6 +4,20 @@
 
 An end-to-end Data Science + AI solution predicting customer churn, segmenting 16,737 loyalty members, and generating AI-powered retention actions using XGBoost, KMeans, and AI (claude-sonnet-4-6 , Gemini , GPT).
 
+### 📸 Demo & Screenshots
+
+#### Full Video Walkthrough
+![LoyaltyIQ Walkthrough Video](assets/walkthrough.webp)
+
+#### Welcome & Entry Page
+![Welcome Page](assets/landing.png)
+
+#### Main Behavioral Analytics & Prediction Dashboard
+![Analytics Dashboard](assets/dashboard.png)
+
+#### CRM Member Lookup & Profile Explorer
+![CRM Member Lookup](assets/lookup.png)
+
 ## Problem Statement
 
 Airlines rely heavily on customer loyalty programs to drive repeat business, build brand affinity, and maximize Customer Lifetime Value (CLV). However, traditional loyalty systems suffer from a critical flaw: they are fundamentally backward-looking. By focusing primarily on points accumulation, card tiers, and historical spending, they fail to detect early behavioral disengagement. High-value loyalty members often churn silently, displaying patterns of declining interaction that go unnoticed. Because customer lifetime value metrics look healthy based on years of past spend, airlines assume these relationships are strong, right up until the point they are already lost.
