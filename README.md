@@ -10,6 +10,7 @@ The frontend web application is deployed and accessible at:
 
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
+- [Screenshots](#-screenshots)
 - [Key Features](#key-features)
 - [Repository Structure](#repository-structure)
 - [Tech Stack](#tech-stack)
@@ -17,6 +18,19 @@ The frontend web application is deployed and accessible at:
   - [Backend Setup](#1-backend-setup)
   - [Frontend Setup](#2-frontend-setup)
 - [Author & Credits](#author--credits)
+
+---
+
+## 📸 Screenshots
+
+### Welcome & Entry Page
+![Welcome Page](assets/landing.png)
+
+### Main Behavioral Analytics & Prediction Dashboard
+![Analytics Dashboard](assets/dashboard.png)
+
+### CRM Member Lookup & Profile Explorer
+![CRM Member Lookup](assets/lookup.png)
 
 ---
 
